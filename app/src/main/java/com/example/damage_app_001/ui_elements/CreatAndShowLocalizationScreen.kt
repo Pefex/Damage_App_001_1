@@ -109,6 +109,7 @@ fun CreateAndShowLocalizationScreen(
                 .fillMaxWidth(),
                 verticalAlignment = Alignment.CenterVertically,
                 horizontalArrangement = Arrangement.SpaceBetween){
+                //
 
                 CustomizeDropDown(
                     options = componentNames,
